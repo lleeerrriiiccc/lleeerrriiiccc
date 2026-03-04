@@ -5,12 +5,8 @@
 🧰 **Administrador de sistemas junior** en [SUIMCO](https://www.suimco.es/)<br>
 📚 Nivel **B2 de ingles** certificado por cambridge<br>
 
-## 🧪 Cursos de HTB academy
-
-
-
 ## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ergo_16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:el160620072gmail.com) [![Hack The Box](https://img.shields.io/badge/HackTheBox-lleric-orange)](https://profile.hackthebox.com/profile/019cb9cb-fd8e-71d9-818f-26965c54efdc)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ergo_16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:el160620072gmail.com) [![Hack The Box](https://img.shields.io/badge/HackTheBox-lleric-green)](https://profile.hackthebox.com/profile/019cb9cb-fd8e-71d9-818f-26965c54efdc)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
