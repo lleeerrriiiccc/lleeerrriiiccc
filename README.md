@@ -5,7 +5,11 @@
 🧰 **Administrador de sistemas junior** en [SUIMCO](https://www.suimco.es/)<br>
 📚 Nivel **B2 de ingles** certificado por cambridge<br>
 
+## 🧪 Cursos de HTB academy
 
+
+## 🏅 HTB academy badges
+(https://academy.hackthebox.com/achievement/badge/bd676fbe-6102-11ee-aac4-bea50ffe6cb4)
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ergo_16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:el160620072gmail.com) 
