@@ -1,18 +1,16 @@
-# 👋 ¡Hola! Soy Eric
+# 💫 About Me:
+🎓 Estudiante de **Administración de Sistemas en Redes**  <br>💻 Apasionado por el **desarrollo backend**, la **automatización** y la **ciberseguridad**  <br>🔍 Siempre aprendiendo y construyendo nuevos proyectos
 
-🎓 Estudiante de **Administración de Sistemas en Redes**  
-💻 Apasionado por el **desarrollo backend**, la **automatización** y la **ciberseguridad**  
-🔍 Siempre aprendiendo y construyendo nuevos proyectos
 
----
+## 🌐 Socials:
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ergo_16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:el160620072gmail.com) 
 
-## 🧰 Tecnologías y herramientas que uso
-
-- **Lenguajes:** Python · JavaScript · PHP · SQL  
-- **Áreas de interés:** Seguridad informática, scripting, desarrollo web, herramientas de administración de sistemas  
-- **Otras habilidades:** Linux, administración de redes, servicios y servidores
-
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lleeerrriiiccc&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lleeerrriiiccc&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lleeerrriiiccc&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🚀 Proyectos destacados
 
