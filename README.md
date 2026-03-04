@@ -19,9 +19,9 @@ Repositorio donde investigo la extracción de contraseñas guardadas en Chrome c
 👉 [Ver proyecto](https://github.com/lleeerrriiiccc/chrome_password_stealer)
 
 ### 🧾 Aplicación de Gestión Empresarial *(en desarrollo)*  
-Un proyecto propio donde implemento un sistema para gestionar distintos apartados de una empresa.  
+Un proyecto propio donde implemento un sistema para gestionar distintos apartados de una empresa.
 Tecnologías: Python, SQL, JS y PHP.
-
+👉 [Ver proyecto](https://github.com/lleeerrriiiccc/app_gestion)
 ---
 
 ⭐ *Gracias por visitar mi perfil*
