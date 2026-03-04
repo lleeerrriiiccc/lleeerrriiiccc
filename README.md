@@ -24,19 +24,4 @@ Tecnologías: Python, SQL, JS y PHP.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lleeerrriiiccc&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lleeerrriiiccc&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
----
-
-## 📫 Contacto
-
-✉️ Puedes escribirme por GitHub o conectar para colaborar en proyectos relacionados con **Python, seguridad o administración de sistemas**.
-
----
-
 ⭐ *Gracias por visitar mi perfil*
