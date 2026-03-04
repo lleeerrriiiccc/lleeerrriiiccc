@@ -9,7 +9,7 @@
 
 
 ## 🏅 HTB academy badges
-![blue](https://academy.hackthebox.com/achievement/badge/bd676fbe-6102-11ee-aac4-bea50ffe6cb4)
+![blue](https://academy.hackthebox.com/storage/badges/academician.png)
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ergo_16) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:el160620072gmail.com) 
