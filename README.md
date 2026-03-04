@@ -2,8 +2,8 @@
 🎓 Estudiante de **Administración de Sistemas en Redes**  <br>
 💻 Apasionado por el **desarrollo backend**, la **automatización** y la **ciberseguridad**  <br>
 🔍 Siempre aprendiendo y construyendo nuevos proyectos<br>
-🧰**Administrador de sistemas junior** en [SUIMCO](https://www.suimco.es/)<br>
-📚Nivel B2 de ingles certificado por cambridge<br>
+🧰 **Administrador de sistemas junior** en [SUIMCO](https://www.suimco.es/)<br>
+📚 Nivel **B2 de ingles** certificado por cambridge<br>
 
 
 
