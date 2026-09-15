@@ -2,7 +2,7 @@
 🎓 Estudiante de **Administración de Sistemas en Redes**  <br>
 💻 Apasionado por el **desarrollo backend**, la **automatización** y la **ciberseguridad**  <br>
 🔍 Siempre aprendiendo y construyendo nuevos proyectos<br>
-🧰 **Becario de Workplace IT** en [SUIMCO](https://www.hipra.com/)<br>
+🧰 **Becario de Workplace IT** en [HIPRA](https://www.hipra.com/)<br>
 📚 Nivel **B2 de ingles** certificado por cambridge<br>
 
 ## 🌐 Socials:
