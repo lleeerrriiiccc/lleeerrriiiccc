@@ -27,10 +27,6 @@ Aplicación para gestionar el flujo completo de una empresa, desde la entrada de
 **Tecnologías:** Python (Flask), MySQL, JavaScript y HTML.<br/>
 👉 [Ver proyecto](https://github.com/lleeerrriiiccc/app_gestion)
 
-### 🖥️ Homelab de sistemas *(ejemplo — cámbialo por uno real)*
-Laboratorio de administración de sistemas: Active Directory, DNS/DHCP y scripts de automatización en PowerShell y Bash.<br/>
-**Tecnologías:** Windows Server, Linux, PowerShell, Bash.<br/>
-👉 [Ver proyecto](#)
 
 ---
 
